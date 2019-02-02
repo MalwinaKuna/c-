@@ -18,7 +18,7 @@ for(int i=1; i<=6; i++)
     {
         liczba = rand()%49+1;
         usleep(1000000); //na windowie to będzie Sleep(1000);//
-        cout<<liczba<<"   ";
+        cout<<liczba<<"   "	;
         fflush(stdout);
     }
 getchar();
