@@ -9,13 +9,13 @@ int main()
     cout << "Podaj haslo: ";
     cin >> haslo;
 
-    if((login=="Mis")&&(haslo=="kuna"))
+    if((login=="Admin")&&(haslo=="pass"))
     {
-    cout<<"Pomyslne logowanie, poprosze o batonika :)";
+    cout<<"Pomyslne logowanie";
     }
     else
     {
-    cout<<"Niepoprawny login lub haslo, zadam palety batonikow 8)";
+    cout<<"Niepoprawny login lub haslo.";
     }
 
     return 0;
