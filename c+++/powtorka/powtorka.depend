@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1548447583 source:d:\pliki-kuny\c++\powtorka\main.cpp
-	<iostream>
-	<stdio.h>
-	<time.h>
-	<cstdlib>
-	<windows.h>
-
