@@ -26,6 +26,6 @@ int main()
 	else
 		cout<<"Liczba "<<n<<" nie jest pierwsza"<<endl;
 
-    getchar(); getchar();
+
 	return 0;
 }
